@@ -1,0 +1,14 @@
+# Arquivos gerados pela compilação do C
+*.o
+*.out
+*.exe
+
+# Arquivos temporários do sistema operacional (Windows/Linux)
+Thumbs.db
+.DS_Store
+
+# Pastas de IDEs (caso use VS Code, etc)
+.vscode/
+
+# Ignorar o arquivo zip de backup para não pesar o repositório
+TP_FINAL.zip
