@@ -1,1 +1,1 @@
-RECORDE =, 550
+RECORDE =,
