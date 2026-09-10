@@ -36,7 +36,7 @@ O jogo foi desenvolvido em C utilizando a biblioteca Allegro 5, com estrutura fo
 ### Como compilar e executar
 ```bash
 # Clone o repositório
-git clone [https://github.com/boxtaplayer/NOME_DO_REPOSITORIO.git](https://github.com/boxtaplayer/NOME_DO_REPOSITORIO.git)
+git clone [https://github.com/gustavocsales/Space_Inaders.git](https://github.com/gustavocsales/Space_Inaders.git)
 
 # Compile utilizando o make e a biblioteca Allegro 5
 sudo apt install liballegro5-dev
